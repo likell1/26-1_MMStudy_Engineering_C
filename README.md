@@ -1,4 +1,3 @@
-# 26-1_MMStudy_Engineering_C
 # 🐘 2026 BOAZ 엔지 C조 멘멘 스터디
 
 ## ⭐️ 진행방식
